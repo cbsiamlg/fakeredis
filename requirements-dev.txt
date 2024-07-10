@@ -2,3 +2,4 @@ invoke==0.22.1
 wheel==0.31.1
 tox==3.6.1
 twine==1.12.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
